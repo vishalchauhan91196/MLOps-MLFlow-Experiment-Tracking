@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ed4b0a45a43b4c2caeaa73c3b9a2ecb7/artifacts
+end_time: 1764677049793
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed4b0a45a43b4c2caeaa73c3b9a2ecb7
+run_name: salty-bass-996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764677049669
+status: 3
+tags: []
+user_id: visha

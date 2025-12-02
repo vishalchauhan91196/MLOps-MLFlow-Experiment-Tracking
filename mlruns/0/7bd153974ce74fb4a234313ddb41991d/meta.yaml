@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7bd153974ce74fb4a234313ddb41991d/artifacts
+end_time: 1764676929396
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bd153974ce74fb4a234313ddb41991d
+run_name: illustrious-mole-577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764676929284
+status: 4
+tags: []
+user_id: visha
