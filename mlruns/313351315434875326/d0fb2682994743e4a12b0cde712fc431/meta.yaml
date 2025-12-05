@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Int/MLOps/Projects/MLOps-MLFlow-Experiment-Tracking/mlruns/313351315434875326/d0fb2682994743e4a12b0cde712fc431/artifacts
+end_time: 1764924798627
+entry_point_name: ''
+experiment_id: '313351315434875326'
+lifecycle_stage: active
+run_id: d0fb2682994743e4a12b0cde712fc431
+run_name: painted-duck-26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764924798559
+status: 3
+tags: []
+user_id: visha

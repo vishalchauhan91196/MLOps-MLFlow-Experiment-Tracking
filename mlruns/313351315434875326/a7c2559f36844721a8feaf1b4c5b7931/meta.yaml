@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Int/MLOps/Projects/MLOps-MLFlow-Experiment-Tracking/mlruns/313351315434875326/a7c2559f36844721a8feaf1b4c5b7931/artifacts
+end_time: 1764924751873
+entry_point_name: ''
+experiment_id: '313351315434875326'
+lifecycle_stage: active
+run_id: a7c2559f36844721a8feaf1b4c5b7931
+run_name: chill-goose-714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764924751800
+status: 3
+tags: []
+user_id: visha

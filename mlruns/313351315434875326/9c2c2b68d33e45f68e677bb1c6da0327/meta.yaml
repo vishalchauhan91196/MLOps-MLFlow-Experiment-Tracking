@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Int/MLOps/Projects/MLOps-MLFlow-Experiment-Tracking/mlruns/313351315434875326/9c2c2b68d33e45f68e677bb1c6da0327/artifacts
+end_time: 1764924751386
+entry_point_name: ''
+experiment_id: '313351315434875326'
+lifecycle_stage: active
+run_id: 9c2c2b68d33e45f68e677bb1c6da0327
+run_name: zealous-turtle-194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764924751321
+status: 3
+tags: []
+user_id: visha

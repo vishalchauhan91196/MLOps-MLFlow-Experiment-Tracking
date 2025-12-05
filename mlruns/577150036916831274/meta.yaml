@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/577150036916831274
+creation_time: 1764851540891
+experiment_id: '577150036916831274'
+last_update_time: 1764851540891
+lifecycle_stage: active
+name: Mlflow-exp-tracking-1

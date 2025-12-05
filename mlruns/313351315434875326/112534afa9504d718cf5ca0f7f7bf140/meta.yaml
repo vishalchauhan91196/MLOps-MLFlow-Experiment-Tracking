@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Int/MLOps/Projects/MLOps-MLFlow-Experiment-Tracking/mlruns/313351315434875326/112534afa9504d718cf5ca0f7f7bf140/artifacts
+end_time: 1764924798316
+entry_point_name: ''
+experiment_id: '313351315434875326'
+lifecycle_stage: active
+run_id: 112534afa9504d718cf5ca0f7f7bf140
+run_name: fun-ant-996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764924798249
+status: 3
+tags: []
+user_id: visha

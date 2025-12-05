@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Int/MLOps/Projects/MLOps-MLFlow-Experiment-Tracking/mlruns/313351315434875326/27b363e6572f4c1596e0e96ae9313406/artifacts
+end_time: 1764924798706
+entry_point_name: ''
+experiment_id: '313351315434875326'
+lifecycle_stage: active
+run_id: 27b363e6572f4c1596e0e96ae9313406
+run_name: honorable-crab-693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764924798636
+status: 3
+tags: []
+user_id: visha

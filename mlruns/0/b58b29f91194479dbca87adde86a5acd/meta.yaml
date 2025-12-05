@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b58b29f91194479dbca87adde86a5acd/artifacts
+end_time: 1764681431583
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b58b29f91194479dbca87adde86a5acd
+run_name: persistent-newt-604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764681430902
+status: 4
+tags: []
+user_id: visha

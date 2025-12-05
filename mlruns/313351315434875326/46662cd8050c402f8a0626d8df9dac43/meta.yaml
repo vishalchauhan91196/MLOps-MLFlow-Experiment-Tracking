@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Int/MLOps/Projects/MLOps-MLFlow-Experiment-Tracking/mlruns/313351315434875326/46662cd8050c402f8a0626d8df9dac43/artifacts
+end_time: 1764924751690
+entry_point_name: ''
+experiment_id: '313351315434875326'
+lifecycle_stage: active
+run_id: 46662cd8050c402f8a0626d8df9dac43
+run_name: industrious-lynx-752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764924751637
+status: 3
+tags: []
+user_id: visha

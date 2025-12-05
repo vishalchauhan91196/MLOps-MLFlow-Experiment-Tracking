@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Int/MLOps/Projects/MLOps-MLFlow-Experiment-Tracking/mlruns/313351315434875326/27b4d49c28be42b1bf4cf25e235fccd8/artifacts
+end_time: 1764924797745
+entry_point_name: ''
+experiment_id: '313351315434875326'
+lifecycle_stage: active
+run_id: 27b4d49c28be42b1bf4cf25e235fccd8
+run_name: nebulous-skink-948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764924797634
+status: 3
+tags: []
+user_id: visha

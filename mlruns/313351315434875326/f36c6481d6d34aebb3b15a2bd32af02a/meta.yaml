@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Int/MLOps/Projects/MLOps-MLFlow-Experiment-Tracking/mlruns/313351315434875326/f36c6481d6d34aebb3b15a2bd32af02a/artifacts
+end_time: 1764924798801
+entry_point_name: ''
+experiment_id: '313351315434875326'
+lifecycle_stage: active
+run_id: f36c6481d6d34aebb3b15a2bd32af02a
+run_name: bald-mule-475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764924798710
+status: 3
+tags: []
+user_id: visha

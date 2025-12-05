@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Int/MLOps/Projects/MLOps-MLFlow-Experiment-Tracking/mlruns/313351315434875326/41a0f7dbd6874c4ea91d24c2558611e8/artifacts
+end_time: 1764924798245
+entry_point_name: ''
+experiment_id: '313351315434875326'
+lifecycle_stage: active
+run_id: 41a0f7dbd6874c4ea91d24c2558611e8
+run_name: marvelous-bat-205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764924798156
+status: 3
+tags: []
+user_id: visha

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Int/MLOps/Projects/MLOps-MLFlow-Experiment-Tracking/mlruns/313351315434875326/0478f48fbc2747f1872bec1dbdf6cf69/artifacts
+end_time: 1764924751316
+entry_point_name: ''
+experiment_id: '313351315434875326'
+lifecycle_stage: active
+run_id: 0478f48fbc2747f1872bec1dbdf6cf69
+run_name: angry-worm-742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764924751251
+status: 3
+tags: []
+user_id: visha

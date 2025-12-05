@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Int/MLOps/Projects/MLOps-MLFlow-Experiment-Tracking/mlruns/313351315434875326/6631cb09cd8b46f2849756377b14744b/artifacts
+end_time: 1764924751796
+entry_point_name: ''
+experiment_id: '313351315434875326'
+lifecycle_stage: active
+run_id: 6631cb09cd8b46f2849756377b14744b
+run_name: spiffy-lamb-858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764924751694
+status: 3
+tags: []
+user_id: visha

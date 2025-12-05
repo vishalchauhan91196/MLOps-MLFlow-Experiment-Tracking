@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Int/MLOps/Projects/MLOps-MLFlow-Experiment-Tracking/mlruns/313351315434875326/cf962d052bce467b91bff3745ab30b9f/artifacts
+end_time: 1764924752180
+entry_point_name: ''
+experiment_id: '313351315434875326'
+lifecycle_stage: active
+run_id: cf962d052bce467b91bff3745ab30b9f
+run_name: clumsy-moth-986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764924743018
+status: 4
+tags: []
+user_id: visha

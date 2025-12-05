@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Int/MLOps/Projects/MLOps-MLFlow-Experiment-Tracking/mlruns/313351315434875326/562c864d7cdb4ca481a489fe1ee63185/artifacts
+end_time: 1764924798555
+entry_point_name: ''
+experiment_id: '313351315434875326'
+lifecycle_stage: active
+run_id: 562c864d7cdb4ca481a489fe1ee63185
+run_name: mercurial-asp-2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764924798447
+status: 3
+tags: []
+user_id: visha

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Int/MLOps/Projects/MLOps-MLFlow-Experiment-Tracking/mlruns/313351315434875326/b16808701c7e48dba92bec57bb030a01/artifacts
+end_time: 1764924797852
+entry_point_name: ''
+experiment_id: '313351315434875326'
+lifecycle_stage: active
+run_id: b16808701c7e48dba92bec57bb030a01
+run_name: sassy-mole-410
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764924797753
+status: 3
+tags: []
+user_id: visha

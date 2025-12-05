@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Int/MLOps/Projects/MLOps-MLFlow-Experiment-Tracking/mlruns/313351315434875326/80fbfe2c78734f6987e5bd12d5011cfd/artifacts
+end_time: 1764924798152
+entry_point_name: ''
+experiment_id: '313351315434875326'
+lifecycle_stage: active
+run_id: 80fbfe2c78734f6987e5bd12d5011cfd
+run_name: amazing-fox-275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764924798060
+status: 3
+tags: []
+user_id: visha

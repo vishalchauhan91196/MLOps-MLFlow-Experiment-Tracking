@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Int/MLOps/Projects/MLOps-MLFlow-Experiment-Tracking/mlruns/313351315434875326/86da8443571e472188dd7c0bcc9f46d8/artifacts
+end_time: 1764924751528
+entry_point_name: ''
+experiment_id: '313351315434875326'
+lifecycle_stage: active
+run_id: 86da8443571e472188dd7c0bcc9f46d8
+run_name: thoughtful-yak-892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764924751466
+status: 3
+tags: []
+user_id: visha

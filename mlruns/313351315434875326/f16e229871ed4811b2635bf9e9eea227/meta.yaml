@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Int/MLOps/Projects/MLOps-MLFlow-Experiment-Tracking/mlruns/313351315434875326/f16e229871ed4811b2635bf9e9eea227/artifacts
+end_time: 1764924752067
+entry_point_name: ''
+experiment_id: '313351315434875326'
+lifecycle_stage: active
+run_id: f16e229871ed4811b2635bf9e9eea227
+run_name: sneaky-hawk-35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764924751991
+status: 3
+tags: []
+user_id: visha

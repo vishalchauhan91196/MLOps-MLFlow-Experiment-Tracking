@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Int/MLOps/Projects/MLOps-MLFlow-Experiment-Tracking/mlruns/313351315434875326/a51a79b44bd1404c8b626571266b42d5/artifacts
+end_time: 1764924797951
+entry_point_name: ''
+experiment_id: '313351315434875326'
+lifecycle_stage: active
+run_id: a51a79b44bd1404c8b626571266b42d5
+run_name: bustling-mouse-519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764924797858
+status: 3
+tags: []
+user_id: visha

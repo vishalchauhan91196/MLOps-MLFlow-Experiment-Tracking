@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/577150036916831274/66212b0cc8524e3787871a1fba5cc2e5/artifacts
+end_time: 1764854407815
+entry_point_name: ''
+experiment_id: '577150036916831274'
+lifecycle_stage: active
+run_id: 66212b0cc8524e3787871a1fba5cc2e5
+run_name: aged-goat-608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764854393243
+status: 3
+tags: []
+user_id: visha
